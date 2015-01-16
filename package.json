@@ -1,6 +1,6 @@
 {
   "name": "twitter-card",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple module that appends the proper meta tags for your own custom twitter card.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/augbog/twitter-card.git"
+    "url": "https://github.com/augbog/twitter-card"
   },
   "keywords": [
     "twitter",
@@ -19,5 +19,9 @@
     "social"
   ],
   "author": "Augustus Yuan <hello@augustusyuan.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augbog/twitter-card/issues"
+  },
+  "homepage": "https://github.com/augbog/twitter-card"
 }
