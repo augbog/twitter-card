@@ -1,0 +1,19 @@
+{
+  "name": "twitter-card",
+  "version": "0.0.0",
+  "description": "Simple module that appends the proper meta tags for your own custom twitter card.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "card",
+    "meta",
+    "twitter-card",
+    "module",
+    "social"
+  ],
+  "author": "Augustus Yuan <ayuan@evernote.com>",
+  "license": "MIT"
+}
