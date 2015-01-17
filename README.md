@@ -15,15 +15,16 @@ Simple module that appends the proper meta tags for your own custom twitter card
        "title" : "Tweet Title",
        "description" : "Description included in tweet"
        "content" : {
-         "gallery" : {
-         "images" : ["https://www.image.com/1/"] // up to 4 images
-        },
-       "player"  : {
-          "embed"  : "https://www.youtube.com/embed/xtG-JbiH-Gc",
-          "image"  : "https://i.ytimg.com/vi/xtG-JbiH-Gc/mqdefault.jpg",
-          "width"  :  350,
-          "height" :  196
-        },
+            "gallery" : {
+                "images" : ["https://www.image.com/1/"] // up to 4 images
+            },
+            "player"  : {
+                "embed"  : "https://www.youtube.com/embed/xtG-JbiH-Gc",
+                "image"  : "https://i.ytimg.com/vi/xtG-JbiH-Gc/mqdefault.jpg",
+                "width"  :  350,
+                "height" :  196
+            }
+        }
     });
 
 # Notes
